@@ -1,0 +1,14 @@
+
+*.pyc
+*.log
+.idea/
+*.csv
+data/
+log/
+doc/
+tmp/
+target/
+resources/
+*.class
+.settings/
+
