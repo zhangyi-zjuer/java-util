@@ -11,6 +11,6 @@ target/
 resources/
 *.class
 .settings/
-.classpath
-.project
+/.classpath
+/.project
 
